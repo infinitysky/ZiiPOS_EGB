@@ -1,0 +1,9 @@
+pyodbc
+pandas
+openpyxl
+xlrd
+
+
+pip3 install pyodbc numpy pandas openpyxl xlrd xlwt wget xlsxwriter ssl tqdm
+
+pyinstaller --onefile EGBOffice_Converter.py
